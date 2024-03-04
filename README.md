@@ -1,5 +1,5 @@
 ## DemoApp Instagram
-The LandmarkBook app lists important landmarks of cities and allows you to view their photos. 
+In this demo app I created a Instagram application on Android Studio with Java. 
 ### App Contains
 1. Page transition
 2. Listing
