@@ -6,13 +6,15 @@ In this demo app I created a Instagram application on Android Studio with Java.
 3. Image Viewing
 
 ### In this demo app I used and practiced
+- Firebase
 - TextView
 - ImageView
 - ViewBingding
 - ListView
 - Mapping
 - Adapter
+- Model
 
-| HomePage | Page 1  | Page 2  |
+| Singin | Page 1  | Page 2  |
 | ------------ | ------------ | ------------ |
-| ![lm1](https://github.com/emreosmanc/LandmarkBook/assets/160953680/8574ab48-d921-4a79-9992-84414855f001)  | ![lm2](https://github.com/emreosmanc/LandmarkBook/assets/160953680/54035ae4-b11d-4b22-b190-abfe02160582)  | ![lm3](https://github.com/emreosmanc/LandmarkBook/assets/160953680/c7147ec8-5a44-40d7-93be-f08a15c0ee8c)  |
+| ![signinout](https://github.com/emreosmanc/JavaInstagramClone/assets/160953680/be13ac42-cc9a-4cc7-b68c-13023d57ccd9)  | ![upload](https://github.com/emreosmanc/JavaInstagramClone/assets/160953680/05bc5525-52e0-450d-ae9d-dec8caa75193)  | ![mainsay](https://github.com/emreosmanc/JavaInstagramClone/assets/160953680/780f4d06-522c-42d0-a994-d228c7fc27f6)  |
